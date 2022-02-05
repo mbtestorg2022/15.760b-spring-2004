@@ -40,24 +40,311 @@ For more information about these two documents and the related simulation, see t
 
 A timeline of the exercise is provided in the table below. The actual simulation is conducted over the course of one week.
 
-| LEC # | TOPICS | TYPES | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Course Introduction | Lecture | &nbsp; |
-| 2 | Burger King and McDonald's | Case | &nbsp; |
-| 3 | Capacity | Lecture | &nbsp; |
-| 4 | National Cranberry | Case | &nbsp; |
-| 5 | Webvan | Case | &nbsp; |
-| 6 | Inventory | Lecture | &nbsp; |
-| 7 | Barilla | Case | &nbsp; |
-| 8 | Sport Obermeyer | Case | &nbsp; |
-| 9 | Production Control | Lecture | In anticipation of the simulation exercise, students must have formed their teams and registered them in the simulation Web page by the end of the day today. |
-| 10 | Hewlett-Packard | Case | &nbsp; |
-| 11 | _The Goal_ | Book | &nbsp; |
-| 12 | Quality | Lecture | In order to familiarize themselves with the simulation game interface and analyze early demand data, students can access your factory online as early as today. Teams will then receive additional customer orders and gain the ability to manage your factory during the actual simulation exercise. |
-| 13 | Toyota | Case | &nbsp; |
-| 14 | Process Design | Lecture | Special tutorial and Q/A session on the Littlefield Technology simulation exercise  {{< br >}}  {{< br >}}Simulation Exercise begins at 6:00 p.m. |
-| 15 | Global Financial Corp. | Case | &nbsp; |
-| 16 | Supply Chain Design | Lecture | &nbsp; |
-| 17 | Product Design | Lecture | Simulation Exercise ends at 6:00 p.m. |
-| 18 | Sega Dreamcast | Case | Simulation Write-up for group, containing answers to the above questions, due day after lecture 18 |
-| 19 | Simulation and Course Wrap-up | Lecture |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+TYPES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Burger King and McDonald's
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Capacity
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+National Cranberry
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Webvan
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Barilla
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Sport Obermeyer
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Production Control
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+In anticipation of the simulation exercise, students must have formed their teams and registered them in the simulation Web page by the end of the day today.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Hewlett-Packard
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_The Goal_
+{{< tdclose >}}
+{{< tdopen >}}
+Book
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Quality
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+In order to familiarize themselves with the simulation game interface and analyze early demand data, students can access your factory online as early as today. Teams will then receive additional customer orders and gain the ability to manage your factory during the actual simulation exercise.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Toyota
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Process Design
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Special tutorial and Q/A session on the Littlefield Technology simulation exercise  
+  
+Simulation Exercise begins at 6:00 p.m.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Global Financial Corp.
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Design
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Product Design
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Simulation Exercise ends at 6:00 p.m.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Sega Dreamcast
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+{{< tdopen >}}
+Simulation Write-up for group, containing answers to the above questions, due day after lecture 18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Simulation and Course Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

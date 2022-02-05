@@ -40,12 +40,57 @@ Grading and Assignments
 
 The grading of 15.760 will be based on the following weighting scheme:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation (Individual) | 30% |
-| Case Write-up (Team) | 30% |
-| Book Review (Individual) | 10% |
-| Simulation (Team) | 30% (20% Report, 10% Simulation Performance) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation (Individual)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Write-up (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Book Review (Individual)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Simulation (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+30% (20% Report, 10% Simulation Performance)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Class Participation
 
