@@ -8,6 +8,7 @@ description: This handout contains an overview of the simulation assignment. Tea
   simulation is over, each team will turn in a written report of at most four pages.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-760b-introduction-to-operations-management-spring-2004/6657e4cd674d25ceaa1b9eadbbe06313_littlefield_sim.pdf
 file_type: application/pdf
+parent_uid: 6a62d73d-afc0-3cea-a408-90cbc3ea7d27
 resourcetype: Document
 title: littlefield_sim.pdf
 uid: 6657e4cd-674d-25ce-aa1b-9eadbbe06313
